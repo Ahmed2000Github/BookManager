@@ -25,13 +25,13 @@ Welcome to the Book Manager Project! This simple web application allows users to
 3. **Install server dependencies:**
 
    ```bash
-   cd server
+   cd backend
    npm install
 
 4. **Install client dependencies:**
 
    ```bash
-   cd client
+   cd frontend
    npm install
 
 5. **Configure MySQL:**
@@ -48,26 +48,31 @@ Welcome to the Book Manager Project! This simple web application allows users to
 6. **Start the server:**
 
    ```bash
-   cd server
+   cd backend
    npm start
    
 7. **Start the client:**
 
    ```bash
-   cd client
+   cd frontend
    npm start
+   
 ## Features
+
   Book Management: Add, edit, and delete books.
   MySQL Database: Store book information in a MySQL database.
   React.js Frontend: User-friendly interface for managing books.
   Express.js Backend: RESTful API for book operations.
+  
 ## Usage
+
   Open the application in your web browser.
   Add, edit, or delete books using the provided interface.
   Contributing
   Contributions are welcome! Please follow the contribution guidelines.
 
 ## License
+
   This project is licensed under the MIT License.
 
 Feel free to customize this README based on your specific project details and structure.
